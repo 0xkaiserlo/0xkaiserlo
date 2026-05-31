@@ -1,16 +1,21 @@
-# 0xkaiserlo
-**Software & Systems Developer**
+<div align="center">
+  <h1><b>0xkaiserlo</b></h1>
+  <p><i>Architecting systems from the backend to the kernel level.</i></p>
+  <br>
+</div>
 
-<p align="left">
-  Arquiteto de soluções backend, entusiasta de sistemas mobile e explorador do ecossistema low-level do Linux. Foco em performance, código minimalista e arquiteturas escaláveis.
+<p align="center">
+  Desenvolvedor de software focado em performance, código minimalista e infraestruturas escaláveis. Com uma base forte em engenharia de sistemas (LECC), atuo desde a modelagem de bancos de dados relacionais até a integração de drivers de hardware.
 </p>
 
----
+<br>
 
-### ✦ stack distribution.
+### ✦ skill distribution matrix.
 
 ```text
-[ 40% ] Backend: Java & Spring Boot          ████████████████░░░░░░░░░░░░░░░░░░░░░░░░
-[ 30% ] Backend: TypeScript & Express        ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-[ 20% ] Mobile : React Native & Android      ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-[ 10% ] Systems: C & Linux Driver Dev        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+=============================================================================
+[ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░ ] 40% : Java & Spring Boot
+[ ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ] 30% : TypeScript & Express
+[ ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ] 20% : React Native & Android
+[ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ] 10% : C & Linux Driver Dev
+=============================================================================
