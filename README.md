@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Desenvolvedor de software focado em performance, código minimalista e infraestruturas escaláveis. Com uma base forte em engenharia de sistemas (LECC), atuo desde a modelagem de bancos de dados relacionais até a integração de drivers de hardware.
+  Desenvolvedor de software focado em performance, código minimalista e infraestruturas escaláveis. Com uma base forte em engenharia de sistemas, atuo desde a modelagem de bancos de dados relacionais até a integração de drivers de hardware.
 </p>
 
 <br>
