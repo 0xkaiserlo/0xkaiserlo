@@ -1,16 +1,16 @@
-## Hi there 👋
+# 0xkaiserlo
+**Software & Systems Developer**
 
-<!--
-**0xkaiserlo/0xkaiserlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Arquiteto de soluções backend, entusiasta de sistemas mobile e explorador do ecossistema low-level do Linux. Foco em performance, código minimalista e arquiteturas escaláveis.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✦ stack distribution.
+
+```text
+[ 40% ] Backend: Java & Spring Boot          ████████████████░░░░░░░░░░░░░░░░░░░░░░░░
+[ 30% ] Backend: TypeScript & Express        ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+[ 20% ] Mobile : React Native & Android      ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+[ 10% ] Systems: C & Linux Driver Dev        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
